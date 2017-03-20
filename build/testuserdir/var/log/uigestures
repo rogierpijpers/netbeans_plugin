@@ -1,0 +1,186 @@
+<record>
+  <date>2017-03-20T15:57:59</date>
+  <millis>1490021879739</millis>
+  <sequence>49</sequence>
+  <level>300</level>
+  <thread>19</thread>
+  <message>CPU INFO</message>
+  <param>8</param>
+</record>
+<record>
+  <date>2017-03-20T15:57:59</date>
+  <millis>1490021879755</millis>
+  <sequence>50</sequence>
+  <level>300</level>
+  <thread>19</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>2</param>
+</record>
+<record>
+  <date>2017-03-20T15:57:59</date>
+  <millis>1490021879757</millis>
+  <sequence>51</sequence>
+  <level>700</level>
+  <thread>19</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2017-03-20T15:58:05</date>
+  <millis>1490021885203</millis>
+  <sequence>73</sequence>
+  <logger>org.netbeans.ui.metrics.laf</logger>
+  <level>800</level>
+  <thread>19</thread>
+  <message>USG_LOOK_AND_FEEL</message>
+  <param>Windows</param>
+  <param>Windows</param>
+</record>
+<record>
+  <date>2017-03-20T15:58:09</date>
+  <millis>1490021889641</millis>
+  <sequence>76</sequence>
+  <level>800</level>
+  <thread>18</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8473567232</param>
+</record>
+<record>
+  <date>2017-03-20T15:58:19</date>
+  <millis>1490021899989</millis>
+  <sequence>82</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>34</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2017-03-20T15:58:19</date>
+  <millis>1490021899994</millis>
+  <sequence>83</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>34</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>5</param>
+</record>
+<record>
+  <date>2017-03-20T15:58:20</date>
+  <millis>1490021900377</millis>
+  <sequence>89</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>25</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2017-03-20T15:58:58</date>
+  <millis>1490021938177</millis>
+  <sequence>49</sequence>
+  <level>300</level>
+  <thread>19</thread>
+  <message>CPU INFO</message>
+  <param>8</param>
+</record>
+<record>
+  <date>2017-03-20T15:58:58</date>
+  <millis>1490021938181</millis>
+  <sequence>50</sequence>
+  <level>300</level>
+  <thread>19</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1080</param>
+  <param>2</param>
+</record>
+<record>
+  <date>2017-03-20T15:58:58</date>
+  <millis>1490021938182</millis>
+  <sequence>51</sequence>
+  <level>700</level>
+  <thread>19</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2017-03-20T15:59:01</date>
+  <millis>1490021941282</millis>
+  <sequence>74</sequence>
+  <logger>org.netbeans.ui.metrics.laf</logger>
+  <level>800</level>
+  <thread>19</thread>
+  <message>USG_LOOK_AND_FEEL</message>
+  <param>Windows</param>
+  <param>Windows</param>
+</record>
+<record>
+  <date>2017-03-20T15:59:07</date>
+  <millis>1490021947086</millis>
+  <sequence>77</sequence>
+  <level>800</level>
+  <thread>18</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8473567232</param>
+</record>
+<record>
+  <date>2017-03-20T15:59:08</date>
+  <millis>1490021948971</millis>
+  <sequence>78</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>41</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[deezermodule]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.openide.awt.AlwaysEnabledAction[deezermodule]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>deezermodule</param>
+</record>
+<record>
+  <date>2017-03-20T15:59:19</date>
+  <millis>1490021959518</millis>
+  <sequence>130</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>56</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2017-03-20T15:59:19</date>
+  <millis>1490021959555</millis>
+  <sequence>132</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>56</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>4</param>
+</record>
+<record>
+  <date>2017-03-20T15:59:19</date>
+  <millis>1490021959766</millis>
+  <sequence>136</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>41</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>

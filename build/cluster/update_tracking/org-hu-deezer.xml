@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.hu.deezer">
+    <module_version install_time="1490021928964" last="true" origin="installer" specification_version="1.0">
+        <file crc="430748564" name="config/Modules/org-hu-deezer.xml"/>
+        <file crc="2428912288" name="modules/org-hu-deezer.jar"/>
+    </module_version>
+</module>
